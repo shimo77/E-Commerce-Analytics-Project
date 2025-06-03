@@ -5,8 +5,7 @@ Data-powered insights and tools to level up your e-commerce game — whether you
 ---
 
 ## 📸 Preview
-
-https://github.com/shimo77/E-Commerce-Analytics-Project/blob/main/1.PNG
+![Dashboard Preview](https://github.com/shimo77/E-Commerce-Analytics-Project/blob/main/1.PNG?raw=true)
 
 *Above: Example of the analytics dashboard / UI interface / data visualization (replace this with a real screenshot when ready).*
 
